@@ -1,0 +1,5 @@
+pynput
+keyboard
+email-to
+pyscreenshot
+Pillow
